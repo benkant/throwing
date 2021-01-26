@@ -13,4 +13,3 @@ int main(int argc, char** argv) {
 
   return ofRunApp(new ofApp());
 }
-
